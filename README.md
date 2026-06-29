@@ -8,6 +8,9 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Saikat1462/Diabetes-Risk-Prediction.git)
+[![Live App](https://img.shields.io/badge/Live-Web_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://diabetes-risk-prediction-8qsoycpbw3bvgj5b2ynqx6.streamlit.app/#diabetes-risk-predictor)
+
 **A production-quality, end-to-end machine learning pipeline for binary classification of Diabetes risk using real-world CDC health survey data.**
 
 **Author:** Saikat Sarkar &nbsp;|&nbsp; 🎓 IIT Jodhpur &nbsp;|&nbsp; 📊 Data Science & AI &nbsp;|&nbsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikat-sarkar-17151a3b1)
@@ -100,8 +103,8 @@ Diabetes/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/diabetes-classification.git
-cd diabetes-classification
+git clone https://github.com/Saikat1462/Diabetes-Risk-Prediction.git
+cd Diabetes-Risk-Prediction
 ```
 
 ### 2. Install Dependencies
@@ -131,7 +134,8 @@ predictions = best_model_stack.predict(x_test)
 
 ## 🌐 Streamlit Web App
 
-An interactive web app is included for real-time diabetes risk prediction.
+An interactive web app is included for real-time diabetes risk prediction. 
+**👉 [Try the Live App Here!](https://diabetes-risk-prediction-8qsoycpbw3bvgj5b2ynqx6.streamlit.app/#diabetes-risk-predictor)**
 
 ### Run Locally
 ```bash
